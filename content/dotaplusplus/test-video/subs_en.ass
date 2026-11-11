@@ -1,0 +1,26 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter ExtraBold,86,&H00FFFFFF,&H00FFFFFF,&H00401030,&H96000000,1,0,0,0,100,100,0,0,1,7,3,2,80,80,560,1
+Style: Hook,Inter ExtraBold,104,&H00FFFFFF,&H00FFFFFF,&H00401030,&H96000000,1,0,0,0,100,100,0,0,1,8,4,8,60,60,260,1
+Style: Tag,Inter,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,1,0,3,10,0,7,40,40,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:32.00,Tag,,0,0,0,,Ad · I'm on the Dotaplusplus team
+Dialogue: 1,0:00:00.00,0:00:03.00,Hook,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}5K MMR.\NI NEVER PICK\N{\c&HFF3D8B&}WITHOUT F8
+Dialogue: 1,0:00:03.00,0:00:04.60,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}Enemy locked in.
+Dialogue: 1,0:00:04.60,0:00:06.00,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}You're {\c&HFF3D8B&}guessing?
+Dialogue: 1,0:00:06.00,0:00:08.50,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}Press {\c&HFF3D8B&}F8
+Dialogue: 1,0:00:08.50,0:00:11.50,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}{\c&HFF3D8B&}Half a second{\c&HFFFFFF&} —
+Dialogue: 1,0:00:11.50,0:00:15.00,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}and you see\Nthe {\c&HFF3D8B&}counter
+Dialogue: 1,0:00:15.00,0:00:18.50,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}Win · Counter\N· {\c&HFF3D8B&}Lane
+Dialogue: 1,0:00:18.50,0:00:22.00,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}Troll breaks\N{\c&HFF3D8B&}Phoenix's egg
+Dialogue: 1,0:00:22.00,0:00:26.00,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}{\c&HFF3D8B&}Ctrl+F8{\c&HFFFFFF&} —\Nitems for this match
+Dialogue: 1,0:00:26.00,0:00:28.50,Hook,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}{\c&HFF3D8B&}DOTAPLUSPLUS
+Dialogue: 1,0:00:28.50,0:00:32.00,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}{\c&HFF3D8B&}Telegram{\c&HFFFFFF&} —\Nlink in bio
