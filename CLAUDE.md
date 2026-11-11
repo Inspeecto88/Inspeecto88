@@ -35,6 +35,13 @@
   (лампа / кільцева лампа). Фото й відео знімати на штативі: з рук кадри змащені.
 - Фото себе в репозиторій не кладу — тільки цей опис.
 
+## Поточний проєкт: Dotaplusplus (Dota 2, підписка, я в команді з % від підписок)
+- Перед будь-якою роботою по ньому прочитай `docs/dotaplusplus-decisions.md` — там прийняті рішення і відкриті питання.
+- Решта: план `docs/dotaplusplus-content-plan.md`, текст для читання `docs/dotaplusplus-teleprompter-ua.md`,
+  монтаж `docs/dotaplusplus-montage-guide.md`, конкуренти `docs/dotaplusplus-competitors.md`,
+  монетизація `docs/monetization-checklist.md`, промпти Kling `docs/kling-prompts-me-and-setup.md`,
+  облік кредитів Kling `content/dotaplusplus/kling-budget.md`.
+
 ## Плагіни (вмикаються автоматично через .claude/settings.json)
 - `claude-code-setup` (офіційний Anthropic) — на запит «порадь автоматизації для проєкту»
   сканує репозиторій і радить хуки, скіли, субагентів, MCP-сервери. Нічого не змінює сам.

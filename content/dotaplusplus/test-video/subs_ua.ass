@@ -1,0 +1,26 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter ExtraBold,86,&H00FFFFFF,&H00FFFFFF,&H00401030,&H96000000,1,0,0,0,100,100,0,0,1,7,3,2,80,80,560,1
+Style: Hook,Inter ExtraBold,104,&H00FFFFFF,&H00FFFFFF,&H00401030,&H96000000,1,0,0,0,100,100,0,0,1,8,4,8,60,60,260,1
+Style: Tag,Inter,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,1,0,3,10,0,7,40,40,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:32.00,Tag,,0,0,0,,Реклама · я в команді Dotaplusplus
+Dialogue: 1,0:00:00.00,0:00:03.00,Hook,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}5000 ММР.\N{\c&HFF3D8B&}БЕЗ F8{\c&HFFFFFF&} НЕ ПІКАЮ
+Dialogue: 1,0:00:03.00,0:00:04.60,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}Ворог пікнув.
+Dialogue: 1,0:00:04.60,0:00:06.00,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}А ти — {\c&HFF3D8B&}наосліп?
+Dialogue: 1,0:00:06.00,0:00:08.50,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}Тиснеш {\c&HFF3D8B&}F8
+Dialogue: 1,0:00:08.50,0:00:11.50,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}{\c&HFF3D8B&}Пів секунди{\c&HFFFFFF&} —
+Dialogue: 1,0:00:11.50,0:00:15.00,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}і видно\N{\c&HFF3D8B&}контрпік
+Dialogue: 1,0:00:15.00,0:00:18.50,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}Перемога · Контрпік\N· {\c&HFF3D8B&}Лінія
+Dialogue: 1,0:00:18.50,0:00:22.00,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}Troll ламає\N{\c&HFF3D8B&}яйце Phoenix
+Dialogue: 1,0:00:22.00,0:00:26.00,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}{\c&HFF3D8B&}Ctrl+F8{\c&HFFFFFF&} —\Nпредмети під матч
+Dialogue: 1,0:00:26.00,0:00:28.50,Hook,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}{\c&HFF3D8B&}DOTAPLUSPLUS
+Dialogue: 1,0:00:28.50,0:00:32.00,Sub,,0,0,0,,{\fscx70\fscy70\t(0,140,\fscx100\fscy100)}{\c&HFF3D8B&}Telegram{\c&HFFFFFF&} —\Nпосилання в профілі
